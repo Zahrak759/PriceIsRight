@@ -23,7 +23,7 @@ body {
 <div class="tiledBackground"> </div>
 
 <div class ="dialog2">
-Can you guess how much this watch costs? 
+Can you guess how much this watch costs?
 <p> <img src = "watch.jpg" height = "50%" width = "40%" align = "center"> </p>
 </div>
 

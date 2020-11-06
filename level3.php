@@ -24,20 +24,20 @@ $price = "1799";
 $count = $_SESSION["counter"];
 if ($_POST["guess"] == $price)
 	{#correct guess
-	 header( "Location: winner1.html" );
+	 header( "Location: winnerfinal.html" );
 	 exit ;
 	}
 $_SESSION["counter"]++;
 if ($count >= 2)
 	{
 	 header( "Location: loser.html" );
-	 
+
 	 exit ;
 
 	}
 
 
-?> 
+?>
 <div class ="dialog2">
 That was incorrect please Guess again.
 <p> <img src = "tv.jpg" height = "50%" width = "40%" align = "center"> </p>
