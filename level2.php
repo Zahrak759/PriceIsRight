@@ -26,7 +26,7 @@ $price = "9599";
 $count = $_SESSION["counter"];
 if ($_POST["guess"] == $price)
 	{#correct guess
-	 header( "Location: winner1.html" );
+	 header( "Location: winner2.html" );
 	 exit ;
 	}
 $_SESSION["counter"]++;
