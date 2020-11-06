@@ -21,7 +21,6 @@ body {
 
 <?php
 
-echo $_SESSION["counter"];
 $price = "9599";
 $count = $_SESSION["counter"];
 if ($_POST["guess"] == $price)
