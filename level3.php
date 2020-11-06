@@ -46,7 +46,7 @@ That was incorrect please Guess again.
 </div>
 
 <p>
-<form action = "level1.php" method= "post">
+<form action = "level1.php" method= "post" style="color:white">
 Price Guess: <input type="text" name= "guess">
 </p>
 
