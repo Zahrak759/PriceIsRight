@@ -17,9 +17,6 @@ body {
   background-size: cover;
 }
 </style>
-<?php
-echo $_SESSION["counter"];
-?>
 <body>
 
 
