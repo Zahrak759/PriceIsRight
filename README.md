@@ -5,3 +5,7 @@ This is project that involves HTML and CSS for designing the platform and puttin
 The main screen should take you to a price is right homepage where you enter a number.
 From there if you enter the right number, you have the option to go to the next level.
 If you enter the wrong number, a message is displayed and you have the option to go back and start the game again!
+
+price item 1: 8100
+price item 2: 9599
+price item 3: 1799
