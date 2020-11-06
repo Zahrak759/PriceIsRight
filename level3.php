@@ -20,8 +20,6 @@ body {
 <div class="tiledBackground"> </div>
 
 <?php
-
-echo $_SESSION["counter"];
 $price = "1799";
 $count = $_SESSION["counter"];
 if ($_POST["guess"] == $price)
