@@ -26,7 +26,7 @@ Can you guess how much this jet ski costs?
 </div>
 
 <p>
-<form action = "level2.php" method= "post">
+<form action = "level2.php" method= "post" style="color:white">
 Price Guess: <input type="text" name= "guess">
 </p>
 
