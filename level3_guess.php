@@ -26,7 +26,7 @@ Can you guess how much this TV costs?
 </div>
 
 <p>
-<form action = "level3.php" method= "post">
+<form action = "level3.php" method= "post" style="color:white">
 Price Guess: <input type="text" name= "guess">
 </p>
 
